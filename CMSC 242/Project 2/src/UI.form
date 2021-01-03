@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="UI">
+  <grid id="27dc6" binding="atmMain" layout-manager="GridBagLayout">
+    <constraints>
+      <xy x="20" y="20" width="829" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="etched" title="Steve's ATM (Gimme Yo Cash)" title-justification="2"/>
+    <children>
+      <component id="d03e4" class="javax.swing.JButton" binding="depositButton" default-binding="true">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="1.0" weighty="1.0"/>
+        </constraints>
+        <properties>
+          <text value="Deposit"/>
+          <toolTipText value="Deposit Cash"/>
+        </properties>
+      </component>
+      <component id="1c248" class="javax.swing.JButton" binding="withdrawlButton" default-binding="true">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="1.0" weighty="1.0"/>
+        </constraints>
+        <properties>
+          <text value="Withdrawl"/>
+          <toolTipText value="Withdrawl Cash"/>
+        </properties>
+      </component>
+      <component id="c09ab" class="javax.swing.JRadioButton" binding="checkingRadio">
+        <constraints>
+          <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="1.0" weighty="1.0"/>
+        </constraints>
+        <properties>
+          <text value="Checking Account"/>
+        </properties>
+      </component>
+      <component id="d9a59" class="javax.swing.JRadioButton" binding="savingsRadio">
+        <constraints>
+          <grid row="0" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="1.0" weighty="1.0"/>
+        </constraints>
+        <properties>
+          <horizontalTextPosition value="4"/>
+          <text value="Savings Account"/>
+        </properties>
+      </component>
+      <component id="29b1f" class="javax.swing.JButton" binding="transferButton">
+        <constraints>
+          <grid row="0" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="1.0" weighty="1.0"/>
+        </constraints>
+        <properties>
+          <text value="Transfer"/>
+          <toolTipText value="Transfer Cash"/>
+        </properties>
+      </component>
+      <component id="d1718" class="javax.swing.JButton" binding="balanceButton" default-binding="true">
+        <constraints>
+          <grid row="0" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="1.0" weighty="1.0"/>
+        </constraints>
+        <properties>
+          <text value="Balance"/>
+          <toolTipText value="Check Balance"/>
+        </properties>
+      </component>
+      <component id="e4939" class="javax.swing.JTextField" binding="userInputField">
+        <constraints>
+          <grid row="0" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+          <gridbag weightx="1.0" weighty="1.0"/>
+        </constraints>
+        <properties>
+          <toolTipText value="Input/Output"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+  <buttonGroups>
+    <group name="accountSelection">
+      <member id="c09ab"/>
+      <member id="d9a59"/>
+    </group>
+  </buttonGroups>
+</form>

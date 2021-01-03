@@ -1,0 +1,6 @@
+2015 Employee Potter,Harry 1500 0 0
+2015 Employee Smith,John 2000 0 0
+2014 Salesman Jones,Bill 3000 0 45000 
+2015 Executive Bush,George 5000 150 0
+2014 Executive Who,Doctor 2000 550 0
+2015 Executive Adams,John 10000 45 0
