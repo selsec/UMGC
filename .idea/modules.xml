@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CMSC 141/CMSC 141.iml" filepath="$PROJECT_DIR$/CMSC 141/CMSC 141.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMSC 242/CMSC 242.iml" filepath="$PROJECT_DIR$/CMSC 242/CMSC 242.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMSC 350/Discussion 1/Discussion 1.iml" filepath="$PROJECT_DIR$/CMSC 350/Discussion 1/Discussion 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMSC 350/Discussion 6/Discussion 6.iml" filepath="$PROJECT_DIR$/CMSC 350/Discussion 6/Discussion 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMSC 242/Discussion 7/Discussion 7.iml" filepath="$PROJECT_DIR$/CMSC 242/Discussion 7/Discussion 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMSC 141/Homework 4/Homework 4.iml" filepath="$PROJECT_DIR$/CMSC 141/Homework 4/Homework 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMSC 350/Project 1/Project 1.iml" filepath="$PROJECT_DIR$/CMSC 350/Project 1/Project 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMSC 242/Project 2/Project 2.iml" filepath="$PROJECT_DIR$/CMSC 242/Project 2/Project 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMSC 350/Project 2/Project 21.iml" filepath="$PROJECT_DIR$/CMSC 350/Project 2/Project 21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMSC 242/Project 3/Project 3.iml" filepath="$PROJECT_DIR$/CMSC 242/Project 3/Project 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMSC 350/Project 3/Project 31.iml" filepath="$PROJECT_DIR$/CMSC 350/Project 3/Project 31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMSC 350/Project 4/Project 4.iml" filepath="$PROJECT_DIR$/CMSC 350/Project 4/Project 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMSC 242/Project 4/Project 41.iml" filepath="$PROJECT_DIR$/CMSC 242/Project 4/Project 41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMSC 335/Project1/Project1.iml" filepath="$PROJECT_DIR$/CMSC 335/Project1/Project1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMSC 335/Project2/Project2.iml" filepath="$PROJECT_DIR$/CMSC 335/Project2/Project2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMSC 335/Project3/Project3.iml" filepath="$PROJECT_DIR$/CMSC 335/Project3/Project3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/UMGC.iml" filepath="$PROJECT_DIR$/.idea/UMGC.iml" />
+    </modules>
+  </component>
+</project>
